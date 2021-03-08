@@ -1,5 +1,5 @@
-### Hi there 👋
-I am a software developer working on mission critical public safety software in Ottawa, Canada.
+### Welcome 👋
+I am a software developer in Ottawa, CA working on mission critical public safety software.
 
 I have a deep (no pun intended 😄) interest in Deep Learning and Artificial Intelligence.
 <!--
