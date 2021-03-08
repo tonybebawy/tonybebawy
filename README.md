@@ -1,5 +1,7 @@
 ### Hi there 👋
+I am a software developer working on mission critical public safety software in Ottawa, Canada.
 
+I have a deep (no pun intended 😄) interest in Deep Learning and Artificial Intelligence.
 <!--
 **tonybebawy/tonybebawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
